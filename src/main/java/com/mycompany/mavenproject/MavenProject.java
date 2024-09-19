@@ -13,5 +13,6 @@ public class MavenProject {
 
     public static void main(String[] args) {
         System.out.println("authstring +  username + password");
+        //authstring  username  password
     }
 }
